@@ -1,5 +1,5 @@
 ### Week-1
-# [Swift]({% post_url 2010-07-11-Week1-SwiftFirstBlog %})
+# [Swift]({% post_url 2019-01-11-Week1-SwiftFirstBlog %})
 
 I have chosen Swift language to make my project because it a new language for me and 
 I want to take this opportunity to learn Swift Language. It will be helpful to me in next semester. Apart from that,
