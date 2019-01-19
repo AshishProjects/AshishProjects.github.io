@@ -12,7 +12,7 @@ I even looked into basic calculator tutorial on youtube.
 [Calculator tutorial on Youtube](https://www.youtube.com/watch?v=AG2QDwmj64A)
 
 
-##Next Week plans
+## Next Week plans
 Hopefully, I will complete fuctions part and will start building my application design.
 
 ## Advance calculator
