@@ -1,5 +1,5 @@
 ### Week-2
-# [Swift]({% post_url 2019-01-18-Week2-SwiftFirstBlog %})
+# [Swift]({% post_url 2019-01-18-week2-swift-second-blog %})
 
 I started with the basic and viewd basic Swift tutorial videos.
 It was really helpfull to me in inderstanding the variables and functions.
