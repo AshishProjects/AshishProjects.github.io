@@ -5,6 +5,13 @@ I started with the basic and viewd basic Swift tutorial videos.
 It was really helpfull to me in inderstanding the variables and functions.
 I was able to do create some basic program that print results.
 
+[Swift Bigneer Tutorial on youtube](https://www.youtube.com/watch?v=Ulp1Kimblg0)
+
+I even looked into basic calculator tutorial on youtube.
+
+[Calculator tutorial on Youtube](https://www.youtube.com/watch?v=AG2QDwmj64A)
+
+
 ##Next Week plans
 Hopefully, I will complete fuctions part and will start building my application design.
 
