@@ -1,4 +1,4 @@
-### Week-2
+### Week-3
 # [Swift]({% post_url 2019-01-25-Week3-SwiftThirdBlog %})
 
 I started with the basic calculator app. I was able to built some part of it with the hepl of tutorial videos.
