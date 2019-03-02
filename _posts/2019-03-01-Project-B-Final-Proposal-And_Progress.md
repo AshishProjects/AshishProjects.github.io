@@ -1,4 +1,4 @@
-# [Project B Proposal And Progress]({% post_url 2019-03-01-Project-B-Final-Proposal-And_Progress.md %})
+# [Project B Proposal And Progress]({% post_url 2019-03-01-Project-B-Final-Proposal-And_Progress %})
 
 ### Proposal for Scheduler
 ##  Next.js,Google charts and express
